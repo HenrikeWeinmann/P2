@@ -1,0 +1,3 @@
+def monoaudio():
+    print("mono")
+
